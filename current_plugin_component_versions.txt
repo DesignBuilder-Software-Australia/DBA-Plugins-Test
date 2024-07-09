@@ -1,5 +1,4 @@
-#  DesignBuilderAustralia Plugin Components - Component versions available in installer #
-Installer, 0.9.9.0
-PluginContainer, 0.9.9.0
-HVACSizing, 0.9.1.0
+# DesignBuilderAustralia Plugin Components - Component versions available in installer v.0.9.10
+PluginContainer, 0.9.10.0
 NCCThermalComfortReport, 0.9.9.0
+HVACSizing, 0.9.1.0
