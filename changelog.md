@@ -3,7 +3,7 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+<!---## [Unreleased]
 
 ### Added
 
@@ -15,14 +15,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+--->
 
-## [2.0.1] - 2023-03-05
+<!--- ## [2.0.1] - 2023-03-05   
 
-### Fixed
-- Some bug fix
+### Fixed                
+- Some bug fix           --->
 
+## [0.9.10-test] - 2024-08-26
 
-## [2.0.0-test] - 2023-03-05
+### Added
+- *new plugin added*: IMAC Plugin for generating report on neutral operative temperature and 90% acceptance range for 4 building operating modes as defined in he tIMAC model.  
+
+## [2.0.0-test] - 2024-06-01
 
 ### Added
 - The DBA Plugins 'container application' adds the DBA Plugins menu to DesignBuilder and manages installed plugins, the menu, licences and online version checks.
@@ -43,11 +48,12 @@ n/a
 ### Removed
 n/a 
 
-## [Legacy] - 2023-03-05
+## [Legacy] - 2021-03-30
 
 ### Stand-alone Thermal Comfort and Temperature Check Plugin
 The Thermal Comfort and Temperature Check Plugin was a stand-alone plugin for DesignBuilder.
-The most recent version of the stand-alone plugin was released on : 
+This plugin produces a report to help with the mandatory thermal comfort and temperature checks required in NCC 2019/2022.
+The most recent version (0.5.9) of the stand-alone plugin was released in 2021. 
 
 The thermal comfort plugin is now provided as one part of the DBA Plugins installer, along with additional plugins.
 You will need to upgrade to the DBA Plugins application in order to renew your licence, even if you
@@ -58,6 +64,7 @@ Your licence for the plugin will be migrated to the DBA Plugins application duri
 
 
 [unreleased]: https://github.com/RebeccaPowles/DBAPlugins
-[2.0.1]: https://github.com/RebeccaPowles/DBAPlugins/compare/v2.0.0-test...v2.0.1
+<!--- [2.0.1]: https://github.com/RebeccaPowles/DBAPlugins/compare/v2.0.0-test...v2.0.1  --->
+[0.9.10-test]:https://github.com/RebeccaPowles/DBAPlugins/releases/tag/v0.9.10-test
 [2.0.0-test]:https://github.com/RebeccaPowles/DBAPlugins/releases/tag/v2.0.0-test
 [Legacy]:https://designbuilder.com.au/ncc-2019-temperature-range-check-and-thermal-comfort-plugin
