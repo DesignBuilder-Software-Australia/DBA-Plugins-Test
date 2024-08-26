@@ -2,4 +2,4 @@
 PluginContainer, 0.9.10.0
 NCCThermalComfortReport, 0.9.9.0
 HVACSizing, 0.9.1.0
-IMAC, 0.9.1.0
+DBAIMAC, 0.9.1.0
