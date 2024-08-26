@@ -22,6 +22,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed                
 - Some bug fix           --->
 
+## [0.9.11-test] - 2024-08-26
+
+### Fixed
+- Container: display of updates amended with additional message
+- Installer: location of version check file in installer fixed
+
+
 ## [0.9.10-test] - 2024-08-26
 
 ### Added
