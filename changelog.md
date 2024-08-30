@@ -21,6 +21,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed                
 - Some bug fix           --->
+## [0.9.12-test] - 2024-08-30
+
+### Changed
+- IMAC: now outputs all modes as schedule files with high and limits
 
 ## [0.9.11-test] - 2024-08-26
 
@@ -72,6 +76,8 @@ Your licence for the plugin will be migrated to the DBA Plugins application duri
 
 [unreleased]: https://github.com/RebeccaPowles/DBAPlugins
 <!--- [2.0.1]: https://github.com/RebeccaPowles/DBAPlugins/compare/v2.0.0-test...v2.0.1  --->
+[0.9.12-test]:https://github.com/RebeccaPowles/DBAPlugins/releases/tag/v0.9.12-test
+[0.9.11-test]:https://github.com/RebeccaPowles/DBAPlugins/releases/tag/v0.9.11-test
 [0.9.10-test]:https://github.com/RebeccaPowles/DBAPlugins/releases/tag/v0.9.10-test
 [2.0.0-test]:https://github.com/RebeccaPowles/DBAPlugins/releases/tag/v2.0.0-test
 [Legacy]:https://designbuilder.com.au/ncc-2019-temperature-range-check-and-thermal-comfort-plugin
