@@ -22,9 +22,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed                
 - Some bug fix           --->
 ## [0.9.12-test] - 2024-08-30
+### Fixed
+- Installer: no longer requires .NET 8 redistributables, requires .NET 6 Framework
+- Container: utility command line tools packaged as console apps now have dlls as well as exes
 
 ### Changed
 - IMAC: now outputs all modes as schedule files with high and limits
+- IMAC: operation hours are now hour starting, not hour ending ie. 9=9am-10am
 
 ## [0.9.11-test] - 2024-08-26
 
