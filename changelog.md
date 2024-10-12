@@ -3,25 +3,23 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-<!---## [Unreleased]
+## [Unreleased]
 
-### Added
+### Planned Changes
+- Installer: to be digitally signed so that Windows does not display 'Unknown Publisher' warnings
 
 
+## [0.9.13-test] - 2024-10-12
+
+### Fixed
+- Installer: did not correctly convert old licence files
+- Container: licence manager and licence added utility updated to convert licence files correctly
 
 ### Changed
 
 
-
-### Removed
-
---->
-
-<!--- ## [2.0.1] - 2023-03-05   
-
-### Fixed                
-- Some bug fix           --->
 ## [0.9.12-test] - 2024-08-30
+
 ### Fixed
 - Installer: no longer requires .NET 8 redistributables, requires .NET 6 Framework
 - Container: utility command line tools packaged as console apps now have dlls as well as exes
