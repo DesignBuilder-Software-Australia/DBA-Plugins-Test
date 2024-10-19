@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Planned Changes
 - Installer: to be digitally signed so that Windows does not display 'Unknown Publisher' warnings
 
+## [0.9.13]  - 2024-10-19
+
+### Fixed
+- IMAC: default operation hours set to 9-17 (incorrectly 10-18 before)
 
 ## [0.9.13-test] - 2024-10-12
 
