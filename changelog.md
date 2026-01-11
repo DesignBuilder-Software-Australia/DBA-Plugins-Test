@@ -6,7 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Planned Changes
-- Installer: to be digitally signed so that Windows does not display 'Unknown Publisher' warnings
+- HVAC Sizing: Resolve presentation of bypass factor
+- IMAC: Gathering feedback for next release - current suggestions include:
+    - rounding values in output files
+    - simplifying output by selecting from available models rather than using all
+    - displaying HVAC System operation on/off hourly per zone
+    - reading design run output as well as annual simulation output
+    - per zone operation hours
+
+### Planned Fixes
+- IMAC: handle holiday days in weather files
+
+## [0.9.14-test] - 2026-01-11
+
+## Changed
+- Installer: Digitally signed so that Windows does not display 'Unknown Publisher' warning
+- Container: Additional licence options (internal)
+- NCCThermal: Updated for additional licence options (internal)
+- HVACSizing: Updated for additional licence options (internal)
+- IMAC: Updated for additional licence options (internal)
 
 ## [0.9.13]  - 2024-10-19
 
