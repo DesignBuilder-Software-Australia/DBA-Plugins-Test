@@ -17,9 +17,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Planned Fixes
 - IMAC: handle holiday days in weather files
 
+## [0.9.15-test] - 2026-03-12
+
+### Changed
+- IMAC: Instructions updated
+
 ## [0.9.14-test] - 2026-01-11
 
-## Changed
+### Changed
 - Installer: Digitally signed so that Windows does not display 'Unknown Publisher' warning
 - Container: Additional licence options (internal)
 - NCCThermal: Updated for additional licence options (internal)
